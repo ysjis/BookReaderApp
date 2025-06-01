@@ -1,0 +1,17 @@
+BookReaderApp.zip
+├── app
+│   ├── src
+│   │   ├── main
+│   │   │   ├── java/com/example/bookreader
+│   │   │   │   ├── MainActivity.java
+│   │   │   │   ├── ReaderActivity.java
+│   │   │   │   └── ...
+│   │   │   ├── res
+│   │   │   │   ├── layout
+│   │   │   │   ├── drawable
+│   │   │   │   └── ...
+│   │   │   └── AndroidManifest.xml
+│   │   └── ...
+│   └── build.gradle
+├── gradle
+└── ...
